@@ -1,0 +1,13 @@
+[project]
+name = "pyimagesearch-build-kick-ass-mobile-document-scanner-just-5-minutes"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "imutils>=0.5.4",
+    "ipykernel>=7.3.0",
+    "numpy>=2.5.2",
+    "opencv-python>=5.0.0.93",
+    "scikit-image>=0.26.0",
+]
