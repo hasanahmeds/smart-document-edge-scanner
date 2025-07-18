@@ -1,0 +1,122 @@
+{
+  "number": 12,
+  "title": "Smart Document Edge Scanner",
+  "slug": "smart-document-edge-scanner",
+  "start": "2025-07-18",
+  "end": "2025-08-04",
+  "repo": "renanalencar/opencv-document-scanner",
+  "branch": "main",
+  "license": "MIT",
+  "note": "OpenCV document scanning foundation; OCR is not guaranteed.",
+  "sha": "b6f252f4b59e5b7e6df56b979c31d113db76bb08",
+  "archive_sha256": "5feab0ccd45aa086fe9753fa5e563ea387551e7a31be20494e846114f15d3687",
+  "imported_at": "2026-10-28T21:31:35.209025+00:00",
+  "history": "Reconstructed import history; dates are not dates of original development.",
+  "upstream_files": {
+    "upstream/.gitignore": {
+      "sha256": "9afdd364aba013d804b35deb1d74ef9959c0e9e6dd5ec5191af8e566d5fb9274",
+      "mode": "100644",
+      "bytes": 193
+    },
+    "upstream/.python-version": {
+      "sha256": "02e735b3dfe1c32833eb550b7ff8ffa17f5f2bc3fa1e7bae61a8f5a3883ce398",
+      "mode": "100644",
+      "bytes": 5
+    },
+    "upstream/LICENSE": {
+      "sha256": "282eb394d98d274548215bde04ad5ae7636d1b33b99e0cbf915316bfb6e10650",
+      "mode": "100644",
+      "bytes": 1075
+    },
+    "upstream/README.MD": {
+      "sha256": "70af4b356de17c140ecd1016daac3f6e469c42b4c653b8bedf2026c972885046",
+      "mode": "100644",
+      "bytes": 682
+    },
+    "upstream/img/a.jpg": {
+      "sha256": "6f21749c8c9a366f4047ad7e2cea214d911efb769fa18f26c93d717784692df9",
+      "mode": "100644",
+      "bytes": 67484
+    },
+    "upstream/img/b.jpg": {
+      "sha256": "3665e1ff9b4a7cd26f03ef3ee94f0b4441120a06c58fe08f165590d8f73b67c2",
+      "mode": "100644",
+      "bytes": 244784
+    },
+    "upstream/main.py": {
+      "sha256": "53d5676309272efbdf3806d879181b6bca1fe174b44c72aa493dcdc6a6a701d1",
+      "mode": "100644",
+      "bytes": 145
+    },
+    "upstream/pyimagesearch/__pycache__/transform.cpython-311.pyc": {
+      "sha256": "72510f041aba47ceeb469f446ee6e547a4005bbc0057902b5aa4cc5c25ce36a3",
+      "mode": "100644",
+      "bytes": 2685
+    },
+    "upstream/pyimagesearch/transform.py": {
+      "sha256": "c51b0111fdec0c5152380e73952567700577d990e31f8a848c64084faf0bd87b",
+      "mode": "100644",
+      "bytes": 2329
+    },
+    "upstream/pyimagesearch_build_kick_ass_mobile_document_scanner_just_5_minutes.ipynb": {
+      "sha256": "b054de72247f6a0648315149fc16fc2ae91873e2b5afe9245630e72571c86013",
+      "mode": "100644",
+      "bytes": 5784
+    },
+    "upstream/pyproject.toml": {
+      "sha256": "cf778f63706dfefc15458952a09c42d50942f025b35a4dabeb9ebfc863b14d02",
+      "mode": "100644",
+      "bytes": 339
+    },
+    "upstream/scanner.py": {
+      "sha256": "db46421270de4de38b631927d61a9c81e168c2b95c08022fb9d4c40e770b5850",
+      "mode": "100644",
+      "bytes": 2438
+    },
+    "upstream/sharmaji27-document-scanner.ipynb": {
+      "sha256": "5112abb4bc18c740d9c329cdaa77acebfb42f7f7071f73133b64b06ad4edffcf",
+      "mode": "100644",
+      "bytes": 4008
+    },
+    "upstream/uv.lock": {
+      "sha256": "a9d5c9119ade1d5f645ddfec3732cca8d5bc471c39196d168069c8da64f1790d",
+      "mode": "100644",
+      "bytes": 136090
+    }
+  },
+  "excluded_git_metadata": [],
+  "history_repair": {
+    "pattern": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "approved_calendar": true,
+    "seed": 20251028,
+    "previous_main": "8505c495f063384fc86bf4bfff83426363b93283",
+    "daily_counts": {
+      "2025-07-18": 2,
+      "2025-07-19": 0,
+      "2025-07-20": 3,
+      "2025-07-21": 1,
+      "2025-07-22": 5,
+      "2025-07-23": 4,
+      "2025-07-24": 0,
+      "2025-07-25": 0,
+      "2025-07-26": 2,
+      "2025-07-27": 2,
+      "2025-07-28": 3,
+      "2025-07-29": 0,
+      "2025-07-30": 2,
+      "2025-07-31": 5,
+      "2025-08-01": 5,
+      "2025-08-02": 0,
+      "2025-08-03": 1,
+      "2025-08-04": 1
+    },
+    "description": "Reconstructed import timestamps; not original development dates."
+  }
+}
